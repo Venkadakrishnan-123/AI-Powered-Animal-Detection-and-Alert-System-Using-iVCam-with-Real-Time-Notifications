@@ -1,0 +1,2 @@
+# AI-Powered-Animal-Detection-and-Alert-System-Using-iVCam-with-Real-Time-Notifications
+Developed an AI-powered Wildlife Detection and Alerting System that identifies wild animals from live camera feeds using YOLOv8. When an animal is detected, the system triggers a buzzer and sends SMS alerts through ESP32 and Twilio. It also stores detection logs and images to improve safety in forest-border areas.
